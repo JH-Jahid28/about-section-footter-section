@@ -1,0 +1,85 @@
+.About{
+    width: 100%;
+    height: 450px;
+}
+.About-img img{
+    float: left;
+    width: 800px;
+    height: 600px;
+}
+.about-info{
+    padding-left: 900px;
+    padding-top: 100px;
+    font-size: 25px;
+}
+.about-hero {
+    display: flex;
+    color: #ab7442;
+}
+.hero{
+    display: flex;
+    align-items: center;
+
+}
+.happy-client{
+    margin: 40px;
+    line-height: 10px;
+}
+.user-icon .fa-solid{
+    font-size: 40px;
+}
+.batton a{
+    text-decoration: none;
+    background: #ab7442;
+    padding: 20px;
+
+}
+.about-hero p{
+    color:black
+}
+/* OUR SERVIES CSS */
+
+.our-services{
+    display: flex;
+}
+/* Our services */
+
+
+.service{
+    text-align: center;
+}
+
+/* FOOTER */
+.footer{
+    background: #0b0b0b;
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+    color:white;
+    font-size: 20px;
+}
+.footer-rap{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    padding: 70px 0px 0px 0px;
+    margin-top: 300px;
+}
+.address{
+    padding-top: 0px;
+    margin-top: -20px;
+    
+}
+.batton{
+    padding: 20px;
+    margin-top: 60px;
+    display: inline-block;
+}
+.footer-social-link{
+    font-size: 30px;
+    
+}
+i{
+    margin-right: 10px;
+}
